@@ -2,11 +2,37 @@
 
 *[Primer Trabajo Grupal](#Título-e-imagen-de-portada)
 
-*[Percepción Computacional](#insignias)
+*[Percepción Computacional
+  Evaluación de la segmentación](#insignias)
 
 *[Índice](#índice)
 
 *[Descripción del proyecto](#descripción-del-proyecto)
+Objetivos
+
+El objetivo de este trabajo es aprender a construir y evaluar el rendimiento de uno o más segmentadores. Esta actividad permitirá consolidar los conceptos sobre segmentación de imágenes aprendidos.
+
+Descripción
+
+Este trabajo se entrega de forma grupal. Nos vamos a enfrentar a un verdadero problema de segmentación. La segmentación, como se ha visto, consiste en detectar regiones homogéneas y aislar/detectar objetos dentro de una imagen. Estas regiones habitualmente corresponden a los objetos que se están queriendo identificar. 
+
+Existen muchas maneras de enfocar este problema y puedes hacer uso de las técnicas de segmentación que consideres para resolverlo. Una vez elegidas estas técnicas, debes evaluar su rendimiento frente a imágenes de ground truth. En caso de que se utilicen partes de un software existente, deberá referenciarse la fuente. Debes mostrar en pantalla los resultados de los principales pasos. 
+
+Extensión: el límite máximo son seis páginas.
+
+Forma de entrega: Comenta todos los resultados obtenidos y exporta el notebook a un fichero con extensión .pdf, comenta todos los puntos que se solicitan. Es importante asegurarse que la visualización es correcta y todos los apartados del ejercicio son legibles (se puede obtener directamente desde los notebooks «imprimiendo» en PDF).
+Rúbrica
+
+Actividad grupal: Evaluación de la segmentación	Descripción	Puntuación máxima
+(puntos)	Peso
+%
+Criterio 1	El segmentador funciona correctamente	2	20 %
+Criterio 2	Existe una implementación propia y rigurosa de al menos la parte principal donde el estudiante evalúa sus segmentaciones	3	30 %
+Criterio 3	El estudiante ha comparado más de un segmentador con varias imágenes y ground truths	2	20 %
+Criterio 4	Código claro, comprensible y muestra los principales pasos	2	20 %
+Criterio 5	Memoria clara y sin carencias	1	10 %
+Criterio 6	Existe plagio no debidamente referenciado o el trabajo es similar y con los mismos puntos de fallo que el de otro estudiante	-10	-100 %
+		10	100 %
 
 *[Estado: En Proceso](#Estado-del-proyecto)
 
